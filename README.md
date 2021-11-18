@@ -8,8 +8,8 @@
 * 【ファイナリスト】第１回よこはまアイデアチャレンジ
     - AI×IoT×ARによる次世代スキューバダイビング　ー安全・安心なダイビングとSDGsの実現に向けてー
 * 【佳作】第４回高校生ITアプリアイデアコンテスト
-    - TEENS NET
-<br>2021
+    - TEENS NET<br>
+2021
 * 【企業賞４つ】Civictech Challenge Cup 2021 U-22
     - By My Side
 
