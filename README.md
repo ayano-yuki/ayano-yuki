@@ -28,7 +28,7 @@
 * Unity
 * css
 * Html
-* SQL
+* 
 * HDL
 
 ## やりたいこと
