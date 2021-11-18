@@ -35,6 +35,8 @@
 * 機械学習と深層学習を一から書いたオブジェクト作成
 * Webスクレイピングを使ったWebサイトのフルスクリーンショットを自動でしてくれるプログラムの作成
 * SNS開発
+* 深層強化学習を用いて報酬変動型巡回セールスマンを解く
 * AtCoderのC埋め
+
 ## GitHubStatus
 [![trophy](https://github-profile-trophy.vercel.app/?username=0-ayano)](https://github.com/ryo-ma/github-profile-trophy)<br>
