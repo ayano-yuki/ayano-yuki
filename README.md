@@ -32,4 +32,4 @@
 ## GitHubStatus
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=0-ayano&)](https://github.com/anuraghazra/github-readme-stats)<br>
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=0-ayano)](https://github.com/anuraghazra/github-readme-stats)<br>
-[![trophy](https://github-profile-trophy.vercel.app/?username=)](https://github.com/ryo-ma/github-profile-trophy)<br>
+[![trophy](https://github-profile-trophy.vercel.app/?username=0-ayano)](https://github.com/ryo-ma/github-profile-trophy)<br>
