@@ -6,7 +6,7 @@
     - I don't remenber
 * 【ファイナリスト】第１回よこはまアイデアチャレンジ
     - I don't remenber
-* 【佳作】第４回高校生ITアプリアイデアコンテスト    - 
+* 【佳作】第４回高校生ITアプリアイデアコンテスト
     - TEENS NET
 * 【企業賞４つ】Civictech Challenge Cup 2021 U-22
     - By My Side
@@ -30,11 +30,10 @@
 * HDL
 
 ## やりたいこと
-* 
-* 
-* 
-* 
-* 
+* 機械学習と深層学習を一から書いたオブジェクト
+* Webスクレイピングを使ったWebサイトのフルスクリーンショット
+* SNS開発
+* AtCoderのC埋め
 ## GitHubStatus
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=0-ayano&)](https://github.com/anuraghazra/github-readme-stats)<br>
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=0-ayano)](https://github.com/anuraghazra/github-readme-stats)<br>
