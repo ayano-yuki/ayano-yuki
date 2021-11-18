@@ -29,4 +29,5 @@
 * SQL
 * HDL
 
-## 直近1週間の開発時間
+## GitHubStatus
+[https://github-readme-stats.vercel.app/api?username=0-ayano&show_icons=true]
