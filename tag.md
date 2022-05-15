@@ -11,3 +11,7 @@
 ## hobby
 趣味関係
 <br>
+
+## ict
+ICT関係
+<br>
