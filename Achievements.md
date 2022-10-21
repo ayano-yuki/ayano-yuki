@@ -9,3 +9,6 @@
 * 2021
     * 【企業賞４つ】Civictech Challenge Cup 2021 U-22
        - By My Side
+* 2022
+   *  【予選落ち】Civictech Challenge Cup 2021 U-22
+       - もちっと
