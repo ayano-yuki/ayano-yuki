@@ -1,4 +1,4 @@
-<h1 align="center"> 0-ayano </h1>
+<h1 align="center"> ayano-yuki </h1>
 <h3 align="center"> Goals for 2024 : Become familiar with web-based technologies </h3>
 
 [![Articles](https://badgen.org/img/zenn/yuki_ayano/articles?style=flat)](https://zenn.dev/yuki_ayano)
