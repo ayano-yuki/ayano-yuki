@@ -9,7 +9,7 @@
 [![programming languages](https://skillicons.dev/icons?i=python,vue,cs)](https://skillicons.dev)
 ### design
 [![design](https://skillicons.dev/icons?i=figma)](https://skillicons.dev)
-## others
+### others
 [![others](https://skillicons.dev/icons?i=github,vscode,docker,ubuntu)](https://skillicons.dev)
 
 ## Portfolio
