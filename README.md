@@ -10,7 +10,7 @@
 ### design
 [![design](https://skillicons.dev/icons?i=figma)](https://skillicons.dev)
 ### others
-[![others](https://skillicons.dev/icons?i=github,vscode,docker,ubuntu)](https://skillicons.dev)
+[![others](https://skillicons.dev/icons?i=github,vscode,docker,ubuntu,kali)](https://skillicons.dev)
 
 ## Portfolio
 | 作品名 | 概要 | 使用技術 |
