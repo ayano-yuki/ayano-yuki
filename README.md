@@ -6,7 +6,7 @@
 
 ## Tech Stack
 ### programming languages
-[![programming languages](https://skillicons.dev/icons?i=python,vue,cs)](https://skillicons.dev)
+[![programming languages](https://skillicons.dev/icons?i=python,vue,unity)](https://skillicons.dev)
 ### design
 [![design](https://skillicons.dev/icons?i=figma)](https://skillicons.dev)
 ### others
