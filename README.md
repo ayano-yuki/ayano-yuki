@@ -20,6 +20,7 @@
 | [ハーメルン小説更新Gettter][02] | 小説投稿サイト「ハーメルン」の作品のダウンロード・更新確認を行うプログラム | Python |
 | Tello GUI Controller | 小型ドローンTelloをGUIで制御するアプリケーション（通常操作、任意色の追跡） | Python |
 | [Seek Words Creator][03] | 与えられた単語を使ったシークワーズを生成するアプリケーション | Vue3, TypeScript, Python |
+| ScholarShot | 高専生の生き抜くすべが学べるインタラクティブゲーム | Processing |
 
 
 [01]: https://github.com/ayano-yuki/Work-RemoteOpenPLC
