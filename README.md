@@ -21,12 +21,17 @@
 | Tello GUI Controller | 小型ドローンTelloをGUIで制御するアプリケーション（通常操作、任意色の追跡） | Python |
 | [Seek Words Creator][03] | 与えられた単語を使ったシークワーズを生成するアプリケーション | Vue3, TypeScript, Python |
 | ScholarShot | 高専生の生き抜くすべが学べるインタラクティブゲーム | Processing |
-| [ポートフォリオサイト](https://ayano-yuki-s-page.vercel.app/) | 学生エンジニアとしての7年間の活動をまとめたポートフォリオサイト | Astro |
+| [ポートフォリオサイト][04] | 学生エンジニアとしての7年間の活動をまとめたポートフォリオサイト | Astro |
+| [CreateQR][05] | 入力した情報を基にQRコードを生成するアプリ | Python |
+| [ポケらぶ][06] | ポケモンと恋愛をするためのゲームアプリ | React |
 
 
 [01]: https://github.com/ayano-yuki/Work-RemoteOpenPLC
 [02]: https://github.com/ayano-yuki/Work-HamelnGetter
 [03]: https://github.com/ayano-yuki/Work-SeekWordsCreator
+[04]: https://ayano-yuki-s-page.vercel.app/
+[05]: https://github.com/ayano-yuki/Work-CreateQR
+[06]: https://github.com/ayano-yuki/Work-PokeLove
 
 <!--
 Reference
